@@ -3,4 +3,4 @@ project(LCRS)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(LCRS LCRS.cpp LCRSTree.h)
+add_executable(LCRS LCRS.c LCRSTree.h)
