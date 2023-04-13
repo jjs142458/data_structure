@@ -1,0 +1,5 @@
+# ninja log v5
+69	152	1681108069084694200	Tree_traversal	89305b567d0687f8
+0	59	1681357385985277586	build.ninja	81eb1d4b58294503
+2	66	1681108068996419466	CMakeFiles/Tree_traversal.dir/BinaryTreeTraverseMain.c.o	81f6389149f4a689
+3	69	1681108069000432511	CMakeFiles/Tree_traversal.dir/BinaryTree.c.o	5a34d29acbd30fe5

@@ -1,0 +1,5 @@
+# ninja log v5
+0	50	1680157867212620163	build.ninja	b0902e7d19211ab2
+0	40	1680157876915919462	CMakeFiles/BinaryTree.h.dir/main.c.o	fc7eb494d6f5c0dc
+0	47	1680157876923723086	CMakeFiles/BinaryTree.h.dir/s.c.o	6d894399f2b57058
+47	94	1680157876971273289	BinaryTree.h	1682f0fbcb46f713
