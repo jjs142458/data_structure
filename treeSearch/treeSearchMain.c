@@ -1,7 +1,6 @@
 //
 // Created by 정재성 on 2023/04/20.
 //
-
 #include <stdio.h>
 #include <stdlib.h>
 
