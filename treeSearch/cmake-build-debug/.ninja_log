@@ -1,5 +1,4 @@
 # ninja log v5
-0	65	1681967085927573788	CMakeFiles/treeSearch.dir/tree_search.c.o	1ffe1a12469122ab
 1	53	1681968522124569447	CMakeFiles/treeSearch.dir/treeSearchMain.c.o	10ebe0a2d138344f
 53	100	1681968522171830254	treeSearch	e9682ae6a17ed4b5
-0	56	1681972478403000371	build.ninja	ae1ae73ed30e011f
+0	56	1684984554066376827	build.ninja	ae1ae73ed30e011f
