@@ -3,6 +3,7 @@
 
 struct Node {
     int data;
+    int count;
     struct Node* left;
     struct Node* right;
 };
@@ -109,6 +110,8 @@ int main() {
     printf("%d 값을 삭제했습니다 : ", deleteData);
     inorderTraversal(root);
     printf("\n");
+
+
 
     return 0;
 }
